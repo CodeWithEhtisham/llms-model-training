@@ -1,0 +1,34 @@
+[33mWARNING[0m:  [19-08-2024 18:01:01] chroma_server_nofile is set to 65535, but this is less than current soft limit of 1048576. chroma_server_nofile will not be set.
+[32mINFO[0m:     [19-08-2024 18:01:01] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component System
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component SqliteDB
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component QuotaEnforcer
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component Posthog
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [19-08-2024 18:01:01] Starting component SegmentAPI
+[32mINFO[0m:     [19-08-2024 18:01:01] Started server process [[36m26910[0m]
+[32mINFO[0m:     [19-08-2024 18:01:01] Waiting for application startup.
+[32mINFO[0m:     [19-08-2024 18:01:01] Application startup complete.
+[32mINFO[0m:     [19-08-2024 18:01:01] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [19-08-2024 18:01:12] ::1:57874 - "GET / HTTP/1.1" 404
+[32mINFO[0m:     [19-08-2024 18:01:12] ::1:57874 - "GET /favicon.ico HTTP/1.1" 404
+[32mINFO[0m:     [19-08-2024 18:02:48] ::1:53898 - "GET /apis HTTP/1.1" 404
+[32mINFO[0m:     [19-08-2024 18:02:55] ::1:53898 - "GET /docs HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:02:56] ::1:53898 - "GET /openapi.json HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:05:21] ::1:39288 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:05:23] ::1:39288 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:05:29] ::1:39288 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:05:30] ::1:39288 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:05:31] ::1:39288 - "GET /api/v1/heartbeat HTTP/1.1" 200
+[32mINFO[0m:     [19-08-2024 18:05:47] Shutting down
+[32mINFO[0m:     [19-08-2024 18:05:47] Waiting for application shutdown.
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component System
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component SegmentAPI
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component LocalSegmentManager
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component Posthog
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component QuotaEnforcer
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component SqliteDB
+[36mDEBUG[0m:    [19-08-2024 18:05:47] Stopping component OpenTelemetryClient
+[32mINFO[0m:     [19-08-2024 18:05:47] Application shutdown complete.
+[32mINFO[0m:     [19-08-2024 18:05:47] Finished server process [[36m26910[0m]
