@@ -1,1 +1,7 @@
 chromadb
+transformers
+torch
+sentence_transformers
+unstructured
+camelot-py
+fitz
