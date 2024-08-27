@@ -1393,7 +1393,7 @@ If a question is related to these chapters, answer based on the information prov
 import openai
 
 # Set your OpenAI API key
-openai.api_key = ""  # Replace with your actual OpenAI API key
+# openai.api_key = ""  # Replace with your actual OpenAI API key
 
 
 def ask_model(question, document_content,conditon=False):
