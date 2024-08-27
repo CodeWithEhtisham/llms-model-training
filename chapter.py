@@ -2,58 +2,59 @@
 book_knowledge = """
 Book name Annual report 2023
 Table of Contents
-Chapter | Section | Title
+Chapter | Section | Title | Page
 -------------------------
- |  | Abbreviations
- |  | Acknowledgements
- |  | About the IsDB Institute
- |  | Message from the Director General
- |  | Board of Trustees
- |  | Management Team
- |  | Year-in-Review
- |  | 2023 At A Glance
-1 |  | Strategic Orientation
- | 1.1 | Background
- | 1.2 | Strategic Objectives
- | 1.3 | Main Functions
- | 1.4 | Organizational Structure
-2 |  | Islamic Finance Sector Transformation
- | 2.1 | Leading the Islamic Finance Industry
- | 2.2 | Islamic Finance Grants Program
- | 2.3 | Flagship Transformation Projects
- | 2.4 | Islamic Finance Infrastructure Institutions
- | 2.5 | Knowledge Creation & Dissemination
- | 2.6 | Islamic Financial Products
- | 2.7 | IsDB Prize for Impact Achievement in Islamic Economics
-3 |  | Islamic Finance Sector Transformation
- | 3.1 | Training Programs
- | 3.2 | Massive Open Online Courses (MOOCs)
- | 3.3 | Development of Training Packages
-4 |  | Fintech Solutions
- | 4.1 | Synergizing Tech with Islamic Finance
- | 4.2 | Smart Stabilization System
- | 4.3 | Islamic Finance AI Assistant
- | 4.4 | Islamic Finance Pavilion Marketplace
- | 4.5 | Fintech Initiative under GIFIIP
- | 4.6 | Islamic Finance Regulatory Sandbox
- | 4.7 | Global Innovation Hub
-5 |  | Global Outreach
- | 5.1 | Partnerships for Delivery
- | 5.2 | Publications
- | 5.3 | Cloud Reader for e-Books
- | 5.4 | IsDB Group Library
- | 5.5 | Outreach Initiatives
- | 5.6 | Conferences & Knowledge Events
-6 |  | Strengthening Institutional Effectiveness
- | 6.1 | Board of Trustees
- | 6.2 | IsDBI Project Management Center
- | 6.3 | Driving Business Excellence
+ |  | Abbreviations | 4
+ |  | Acknowledgements | 6
+ |  | About the IsDB Institute | 7
+ |  | Letter of Transmittal | 8
+ |  | Message from the Director General | 10
+ |  | Board of Trustees | 12
+ |  | Management Team | 13
+ |  | Year-in-Review | 14
+ |  | 2023 At A Glance | 16
+1 |  | Strategic Orientation | 18
+ | 1.1 | Background || 19
+ | 1.2 | Strategic Objectives | 19
+ | 1.3 | Main Functions | 20
+ | 1.4 | Organizational Structure | 20
+2 |  | Islamic Finance Sector Transformation | 22
+ | 2.1 | Leading the Islamic Finance Industry | 23
+ | 2.2 | Islamic Finance Grants Program | 23
+ | 2.3 | Flagship Transformation Projects | 25
+ | 2.4 | Islamic Finance Infrastructure Institutions | 25
+ | 2.5 | Knowledge Creation & Dissemination | 26
+ | 2.6 | Islamic Financial Products | 26
+ | 2.7 | IsDB Prize for Impact Achievement in Islamic Economics | 26
+3 |  | Islamic Finance Sector Transformation | 28
+ | 3.1 | Training Programs | 29
+ | 3.2 | Massive Open Online Courses (MOOCs) | 31
+ | 3.3 | Development of Training Packages | 31
+4 |  | Fintech Solutions | 32
+ | 4.1 | Synergizing Tech with Islamic Finance | 33
+ | 4.2 | Smart Stabilization System | 33
+ | 4.3 | Islamic Finance AI Assistant | 34
+ | 4.4 | Islamic Finance Pavilion Marketplace | 34
+ | 4.5 | Fintech Initiative under GIFIIP | 35
+ | 4.6 | Islamic Finance Regulatory Sandbox | 35
+ | 4.7 | Global Innovation Hub | 35
+5 |  | Global Outreach | 36
+ | 5.1 | Partnerships for Delivery | 37
+ | 5.2 | Publications | 38
+ | 5.3 | Cloud Reader for e-Books | 40
+ | 5.4 | IsDB Group Library | 40
+ | 5.5 | Outreach Initiatives | 40
+ | 5.6 | Conferences & Knowledge Events | 41
+6 |  | Strengthening Institutional Effectiveness | 46
+ | 6.1 | Board of Trustees | 47
+ | 6.2 | IsDBI Project Management Center | 47
+ | 6.3 | Driving Business Excellence | 48
  |  | Annexes
-Annex | 1 | Publications
-Annex | 2 | IsDB Prize Laureates
-Annex | 3 | Training Programs
-Annex | 4 | Blog Articles
-Annex | 5 | Conferences & Knowledge Events
+Annex | 1 | Publications | 51
+Annex | 2 | IsDB Prize Laureates | 56
+Annex | 3 | Training Programs | 58
+Annex | 4 | Blog Articles | 59
+Annex | 5 | Conferences & Knowledge Events | 60
 
 
 Abbreviations: AAOIFI Accounting and Auditing Organization for Islamic Financial Institutions, AMF Arab Monetary Fund, BIBF Bahrain Institute of Banking & Finance, BOT Board of Trustees, CBDC Central Bank Digital Currencies, CIBAFI General Council for Islamic Banks and Financial Institutions, COMCEC Standing Committee for Economic and Commercial Cooperation of the OIC, CPT Corporate Performance Team, CWLS Cash Waqf Linked Sukuk, GCC Cooperation Council for the Arab States of the Gulf, GIFIIP Global Islamic Finance and Impact Investing Platform, GIH Global Innovation Hub, ICPSD Istanbul International Center for Private Sector in Development, ICRC International Committee of the Red Cross, IFAA Islamic Finance Artificial Intelligence Assistant, IFI Islamic Financial Industry, IF-MAP Islamic Finance Sector Mapping Framework, IFPM Islamic Finance Pavilion Marketplace, IFSB Islamic Financial Services Board, IICRA International Islamic Centre for Reconciliation and Arbitration, IIFM International Islamic Financial Market, III Islamic Infrastructure Institutions, IIRA Islamic International Ratings Agency, IPOS Intellectual Property Office of Singapore, IsDB Islamic Development Bank, IsDBI Islamic Development Bank Institute, KEC Knowledge Economic City, KSA Kingdom of Saudi Arabia, LDCs Least Developed Countries, MCPS Member-Country Partnership Strategy, MCs Member Countries, MOOCs Massive Open Online Courses, OECD Organisation for Economic Co-operation and Development, OMS Operations Management Solutions, OPHI Oxford Poverty and Human Development Initiative, PMC Project Management Center, SCMS Smart Credit Management System, SDGs Sustainable Development Goals, SMEs Small and Medium Enterprises, SSS Smart Stabilization System, UNDP United Nations Development Programme, WIPO World Intellectual Property Organization
@@ -72,7 +73,17 @@ Message from the Director General H.E. Dr. Muhammad Al Jasser Chairman, IsDB Gro
 
 
 Board of Trustees H.E. Dr. Muhammad Al Jasser Chairman, IsDB Group Chairman, IsDBI Board of Trustees Hon. Dr. Abdallah Souleymane Hon. Abdulghafar Agil Al-Awadhi Hon. Dr. Bambang Susantono Hon. Dr. Kazim Niaz Hon. Khalid Hamad A. Hamad Hon. Malick Ba Hon. Dr. Mohamad Hammour Hon. Rami Alkarmi * Photos of Board of Trustees Members are arranged in alphabetical order of their first names. Hon. Dr. Sabina Alkire ANNUAL REPORT 2023 Dr. Sami Al-Suwailem Acting Director General, IsDBI Secretary, IsDBI Board of Trustees
-
+1. H.E. Dr. Muhammad Al Jasser Chairman, IsDB Group Chairman, IsDBI Board of Trustees
+2. Dr. Sami Al-Suwailem Acting Director General, IsDBI Secretary, IsDBI Board of Trustees
+3. Hon. Dr. Abdallah Souleymane
+4. Hon. Abdulghafar Agil Al-Awadhi
+5. Hon. Dr. Bambang SusantonoHon.
+6. Dr. Kazim Niaz
+7. Hon. Khalid Hamad A. Hamad
+8. Hon. Malick Ba
+9. Hon. Dr. Mohamad Hammour
+10. Hon. Rami Alkarmi
+11. Hon. Dr. Sabina Alkire
 
 Management Team Dr. Sami Al-Suwailem Acting Director General ANNUAL REPORT 2023 Yahya Rehman Associate Manager, Knowledge Leaders Dr. Hilal M. Houssain Habeeb Idris Pindiga Associate Manager, Knowledge Horizons Basim Qasim Muhammad Associate Manager, Corporate Performance
 
@@ -1404,7 +1415,7 @@ def ask_model(question, document_content,conditon=False):
 
     {document_content}
 
-    Based on the above document, please answer the following question:
+    Based on the above document, please answer the following question: if user ask some thing give me complete answer. if user ask about table or some thing give me table.
     Question: {question}
     
     If the question is not related to the document, respond with "sorry! I did not understand your question. please retry."
