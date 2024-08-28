@@ -1,6 +1,7 @@
 # Example: Combining text and tables from two chapters
 book_knowledge = """
 Book name Annual report 2023
+[page 1]
 Table of Contents
 Chapter | Section | Title | Page
 -------------------------
@@ -55,60 +56,23 @@ Annex | 2 | IsDB Prize Laureates | 56
 Annex | 3 | Training Programs | 58
 Annex | 4 | Blog Articles | 59
 Annex | 5 | Conferences & Knowledge Events | 60
+[page 3]
 
-
-Abbreviations: 
-1. AAOIFI Accounting and Auditing Organization for Islamic Financial Institutions,
-2. AMF Arab Monetary Fund, BIBF Bahrain Institute of Banking & Finance,
-3. BOT Board of Trustees, CBDC Central Bank Digital Currencies,
-4. CIBAFI General Council for Islamic Banks and Financial Institutions,
-5. COMCEC Standing Committee for Economic and Commercial Cooperation of the OIC,
-6. CPT Corporate Performance Team,
-7. CWLS Cash Waqf Linked Sukuk,
-8. GCC Cooperation Council for the Arab States of the Gulf,
-9. GIFIIP Global Islamic Finance and Impact Investing Platform,
-10. GIH Global Innovation Hub,
-11. ICPSD Istanbul International Center for Private Sector in Development,
-12. ICRC International Committee of the Red Cross,
-13. IFAA Islamic Finance Artificial Intelligence Assistant, IFI Islamic Financial Industry,
-14. IF-MAP Islamic Finance Sector Mapping Framework, 
-15. IFPM Islamic Finance Pavilion Marketplace, 
-16. IFSB Islamic Financial Services Board, 
-17. IICRA International Islamic Centre for Reconciliation and Arbitration, 
-18. IIFM International Islamic Financial Market, 
-19. III Islamic Infrastructure Institutions, 
-20. IIRA Islamic International Ratings Agency, 
-21. IPOS Intellectual Property Office of Singapore, 
-22. IsDB Islamic Development Bank, 
-23. IsDBI Islamic Development Bank Institute, 
-24. KEC Knowledge Economic City, 
-25. KSA Kingdom of Saudi Arabia, 
-26. LDCs Least Developed Countries, 
-27. MCPS Member-Country Partnership Strategy, 
-28. MCs Member Countries, 
-29. MOOCs Massive Open Online Courses, 
-30. OECD Organisation for Economic Co-operation and Development, 
-31. OMS Operations Management Solutions, 
-32. OPHI Oxford Poverty and Human Development Initiative, 
-33. PMC Project Management Center, 
-34. SCMS Smart Credit Management System, 
-35. SDGs Sustainable Development Goals, 
-36. SMEs Small and Medium Enterprises, 
-37. SSS Smart Stabilization System, 
-38. UNDP United Nations Development Programme, 
-39. WIPO World Intellectual Property Organization
-
+Abbreviations: AAOIFI Accounting and Auditing Organization for Islamic Financial Institutions, AMF Arab Monetary Fund, BIBF Bahrain Institute of Banking & Finance, BOT Board of Trustees, CBDC Central Bank Digital Currencies, CIBAFI General Council for Islamic Banks and Financial Institutions, COMCEC Standing Committee for Economic and Commercial Cooperation of the OIC, CPT Corporate Performance Team, CWLS Cash Waqf Linked Sukuk, GCC Cooperation Council for the Arab States of the Gulf, GIFIIP Global Islamic Finance and Impact Investing Platform, GIH Global Innovation Hub, ICPSD Istanbul International Center for Private Sector in Development, ICRC International Committee of the Red Cross, IFAA Islamic Finance Artificial Intelligence Assistant, IFI Islamic Financial Industry, IF-MAP Islamic Finance Sector Mapping Framework, IFPM Islamic Finance Pavilion Marketplace, IFSB Islamic Financial Services Board, IICRA International Islamic Centre for Reconciliation and Arbitration, IIFM International Islamic Financial Market, III Islamic Infrastructure Institutions, IIRA Islamic International Ratings Agency, IPOS Intellectual Property Office of Singapore, IsDB Islamic Development Bank, IsDBI Islamic Development Bank Institute, KEC Knowledge Economic City, KSA Kingdom of Saudi Arabia, LDCs Least Developed Countries, MCPS Member-Country Partnership Strategy, MCs Member Countries, MOOCs Massive Open Online Courses, OECD Organisation for Economic Co-operation and Development, OMS Operations Management Solutions, OPHI Oxford Poverty and Human Development Initiative, PMC Project Management Center, SCMS Smart Credit Management System, SDGs Sustainable Development Goals, SMEs Small and Medium Enterprises, SSS Smart Stabilization System, UNDP United Nations Development Programme, WIPO World Intellectual Property Organization
+[page 4,5]
 
 Acknowledgements The 2023 Annual Report of the Islamic Development Bank Institute was prepared by the Knowledge Horizons Section, with inputs from the business units, based on the overall guidance of the Institute’s Management. UNDER THE SUPERVISION OF: Dr. Sami Al-Suwailem Acting Director General of IsDBI REPORT COORDINATOR: Habeeb Idris Pindiga CONTRIBUTORS ON BEHALF OF IsDBI BUSINESS UNITS: Mohammad Anamul Haque, Mehmet Fehmi Eken, Mohammad Khalid Jawahir, Syed Faiq Najeeb TRANSLATION COORDINATION: Wejdan Kenali, Mahmoud Bekri PRODUCTION SUPPORT Mahmoud Rashad Adel Al-Shotairy Majed Mahdi
-
+[page 6]
 
 About the IsDB Institute The Islamic Development Bank Institute is the knowledge beacon of the Islamic Development Bank Group. Guided by the principles of Islamic economics and finance, the IsDB Institute is mandated to lead the development of innovative knowledge-based solutions to support the sustainable economic advancement of IsDB Member Countries and various Muslim communities worldwide. The Institute enables economic development through pioneering research and original economic analysis, human capital development, and knowledge creation, dissemination and management. The Institute leads initiatives to enable Islamic finance ecosystems, ultimately helping Member Countries achieve their development objectives.
-
+[page 7]
 
 Letter of Transmittal In the Name of Allah, the Beneficent, the Merciful. H.E. the Chairman, Board of Governors of the Islamic Development Bank. Assalamu alaikum wa rahmatullahi wabarakatuh. In accordance with the Statute of the Islamic Development Bank Institute (IsDBI), I have the honour to submit to the esteemed Board of Governors, on behalf of the Board of Trustees, the Annual Report of IsDBI for the year ending 31 December 2023. The Annual Report covers the Institute’s activities and accomplishments in 2023. We are still counting on the Institute to be the knowledge beacon of the IsDB Group. Please accept, Mr. Chairman, the assurances of my highest consideration. Dr. Muhammad Al Jasser Chairman, Islamic Development Bank Group Chairman, IsDB Institute Board of Trustees
+[page 8,9]
 
 
 Message from the Director General H.E. Dr. Muhammad Al Jasser Chairman, IsDB Group Chairman,  As a knowledge organization, the Islamic Development Bank Institute (IsDBI) is committed to addressing socio-economic challenges through innovative solutions within the Islamic economics and finance framework. In 2023, our work focused on five key function areas: - Leading the Islamic finance sector transformation to develop Islamic finance ecosystems. - Synergizing knowledge technologies with Islamic finance for sustainable economic advancement. - Building human capital through diverse training and learning programs. - Reaching out to stakeholders worldwide through strategic partnerships, knowledge dissemination, and media initiatives. - Enhancing our institutional effectiveness to better serve our stakeholders. As the custodian of the Special Allocation to Support the Islamic Finance Industry, the Institute is leading several flagship projects to enhance the contribution of Islamic finance to the sustainable development of MCs and Muslim communities. Our colleagues work tirelessly to advance the flagship projects initiated previously and introduce innovative ones. The new and on-going initiatives include: - Islamic Finance Artificial Intelligence Assistant (IFAA), a tool that uses advanced AI algorithms to provide comprehensive insights into Islamic finance publications and data. - Islamic Finance Sector Mapping Framework (IF-MAP), a holistic diagnostic and remedial toolkit for strengthening Islamic finance ecosystems across MCs. - Awqaf Free Zones project to innovatively combine the concepts of Awqaf, Free Zones, and technology to unlock resources for sustainable development, focusing on food and energy security. - OIC Smart Countertrade System to facilitate trade transactions between parties to be settled through digital countertrade mechanisms. - Digital Postal Islamic Financial Services Project, exploring the opportunities for offering Islamic financial services through the vast postal network to enhance financial inclusion. - Smart Stabilization System, a patent- pending fintech solution to stabilize asset markets by effectively managing supply- demand gaps. - Islamic Finance Pavilion Marketplace, a platform to connect clients in need of Islamic finance, fintech, and development services with proficient suppliers. We are deeply grateful for the visionary leadership of H.E. Dr. Muhammad Al Jasser, the President of the Institute, and the guidance of our Board of Trustees. We are also thankful to our partners and stakeholders who helped enrich our work with their knowledge, expertise, and feedback. ANNUAL REPORT 2023 We are determined to build on our achievements and explore new possibilities in the years ahead. Our goal is to leverage the immense power of knowledge, innovation, and technology to address socio-economic challenges and create a better future.
+[page 10,11]
 
 
 Board of Trustees H.E. Dr. Muhammad Al Jasser Chairman, IsDB Group Chairman, IsDBI Board of Trustees Hon. Dr. Abdallah Souleymane Hon. Abdulghafar Agil Al-Awadhi Hon. Dr. Bambang Susantono Hon. Dr. Kazim Niaz Hon. Khalid Hamad A. Hamad Hon. Malick Ba Hon. Dr. Mohamad Hammour Hon. Rami Alkarmi * Photos of Board of Trustees Members are arranged in alphabetical order of their first names. Hon. Dr. Sabina Alkire ANNUAL REPORT 2023 Dr. Sami Al-Suwailem Acting Director General, IsDBI Secretary, IsDBI Board of Trustees
@@ -123,11 +87,15 @@ Board of Trustees H.E. Dr. Muhammad Al Jasser Chairman, IsDB Group Chairman, IsD
 9. Hon. Dr. Mohamad Hammour
 10. Hon. Rami Alkarmi
 11. Hon. Dr. Sabina Alkire
+[page 12,13]
+
 
 Management Team Dr. Sami Al-Suwailem Acting Director General ANNUAL REPORT 2023 Yahya Rehman Associate Manager, Knowledge Leaders Dr. Hilal M. Houssain Habeeb Idris Pindiga Associate Manager, Knowledge Horizons Basim Qasim Muhammad Associate Manager, Corporate Performance
+[page 14,15]
 
 
 YEAR IN REVIEW The Islamic Development Bank Institute (IsDBI) is a knowledge organization that aims to address the economic challenges in IsDB Member Countries (MCs) and communities through innovative solutions within the Islamic economics and finance framework. The key areas of activities of the Institute in 2023 include: Islamic Finance Sector Transformation A program that supports the transformation and development of the Islamic Financial Services Industry (IFSI) through implementing Islamic finance grant projects. The program covers various technical work areas, including Islamic banking, capital markets, Takaful, and Islamic social finance. In 2023, the Institute programmed and approved 14 new technical assistance projects worth about US$ 2.3 million in Nigeria, Kyrgyzstan, Morocco, Tunisia, Libya, Mauritania, and with partner international organizations. Twelve projects launched earlier were also completed worth a total of US$ 923,000. An important tool for building the Islamic finance sector in MCs is the Islamic Finance Sector Mapping Framework (IF-MAP). This is a holistic diagnostic and remedial Islamic finance ecosystem toolkit now under the pilot implementation stage. In 2023, assessments were completed for Uzbekistan and Kazakhstan, and preliminary discussions were held with Nigeria, Morocco and Turkiye for 2024 assessments. Knowledge Creation & Dissemination The Institute provides market insights and practical analysis for addressing the development challenges of MCs. This program involves conducting research and publishing books, reports, and articles on diverse topics in Islamic economics, finance, and sustainable development. More than 10 publications were issued in 2023. Furthermore, IsDBI developed a cloud reader that grants access to the Institute’s online bookstore, a massive knowledge repository for Islamic economics and finance publications. Capacity Building Developing human capital is a core mandate of the Institute through organization of training programs, executive programs, knowledge seminars, and other forms of capacity building using both traditional and modern technology-based learning methods. In 2023, the Institute organized 13 capacity- building programs on diverse topics for the benefit of external as well as internal stakeholders. The Institute also used the renowned e-learning platform edX to create and offer e-learning programs. IsDB Prize for Impactful Achievement in Islamic Economics A novel financing mechanism, “Cash Waqf Linked Sukuk (CWLS)”, was selected as the first-place winner of the prestigious IsDB Prize for Impactful Achievement in Islamic Economics for the year 2023. CWLS, an initiative of the Indonesian Finance Ministry, is the first large-scale program to finance social projects via non-profit instruments supervised by the government. This form of financing enhances the diversity of the Islamic capital markets and supports the integration between commercial and social Islamic finance. The winner received a US$100,000 cash award. Strengthening Institutional Effectiveness The Institute achieved remarkable results by leveraging technology for business intelligence that enhances efficiency and productivity. One of the key initiatives in 2023 is the Project Management Center (PMC) that aims to centralize and streamline project management processes and guide the business units towards the successful execution of projects. ANNUAL REPORT 2023 14Furthermore, in 2023, the Institute continued to leverage the latest technologies and strategic partnerships to provide cutting-edge solutions to development challenges. Below are some of the key projects and accomplishments in 2023. Awqaf Free Zones This project aims to innovatively combine the concepts of Awqaf, Free Zones, and technology in mobilizing resources for sustainable development, focusing on food and energy security. Feasibility reports for this project are expected to be completed by the end of 2024. OIC Smart Countertrade System The project aims to facilitate trade transactions between parties in the Organization of Islamic Cooperation (OIC), to be settled through digital countertrade means without using currency. Feasibility reports are due for completion by the end of 2024. Digital Postal Islamic Financial Services Project This project explores the opportunities for offering Islamic financial services through the vast postal network to enhance financial inclusion. Seeking to combine digital technology with Islamic financial instruments within postal networks, the project is expected to revolutionize financial inclusion especially in underserved regions. Smart Stabilization System This patent-pending fintech solution aims to stabilize asset markets by effectively managing supply-demand gaps. The system uses proactive measures to reduce the volatility of the traded asset without the need for capital or external reserves. The system has received a favorable assessment from the World Intellectual Property Organization (WIPO) and is being developed in collaboration with SettleMint, a leader in blockchain technology. Islamic Finance Artificial Intelligence Assistant (IFAA) This is a tool that uses advanced AI algorithms to provide comprehensive insights into Islamic finance publications and data, making complex concepts accessible to a broader audience. IFAA can also summarize reports and explain Islamic financial principles in a conversational manner. The tool is expected to be launched in Q1, 2024. Islamic Finance Pavilion Marketplace (IFPM) This platform connects clients in need of Islamic finance, fintech, and development services with proficient suppliers. The platform aims to enhance the accessibility and availability of these services and promote knowledge-driven sustainable development in MCs. The platform is expected to be launched in Q3, 2024.
+[page 14,15]
 
 
 2023 AT A GLANCE: Islamic Finance Grants Program
@@ -137,21 +105,44 @@ $21.7 million Cumulative Approvals (2013-2023)
 95 Projects Completed (2013-2023)
 35 Countries Benefitted
 10 International Organizations Supported
-New and On-Going Initiatives: Islamic Finance AI AssistantOIC Smart,OIC Smart Countertrade System Digital postal service,Digital Postal Islamic Financial Services Projectslamic Finance Industry Mapping,Smart Stabilization System
+
+New and On-Going Initiatives:
+Islamic Finance AI AssistantOIC Smart,
+OIC Smart Countertrade System Digital postal service,
+Digital Postal Islamic Financial Services Projectslamic Finance Industry Mapping,
+Smart Stabilization System
 Islamic Finance Pavilion Marketplace
 Awqaf Free Zones
-Capacity Building: 13 Training Programs; +300 Participants
-Massive Open Online Courses: Number of Attendees 3,400; Number of Countries of Attendees 130; Number of Active Courses 4
+[page 16]
+
+Capacity Building: 
+13 Training Programs; 
++300 Participants
+
+Massive Open Online Courses:
+Number of Attendees 3,400
+Number of Countries of Attendees 130;
+Number of Active Courses 4
 Top 5 Countries of Attendees Nigeria, Malaysia, Indonesia, Saudi Arabia and Pakistan
-IsDB Prize for Impactful Achievement in Islamic Economics: 1 Laureate; $100,000 Cash Award; 45 Winners To-Date
-Knowledge Events: 6 Conferences (Organized/Participated); 30 Knowledge Sessions
+
+IsDB Prize for Impactful Achievement in Islamic Economics:
+1 Laureate; $100,000 Cash Award
+45 Winners To-Date
+
+Knowledge Events:
+6 Conferences (Organized/Participated)
+30 Knowledge Sessions
+[page 17]
 
 """
 
 chapter1 = """
 
 Chapter 1 Strategic Orientation This chapter presents the Institute's strategic objectives, functions, and organisational structure.
+[page 18]
+
 1.1 Background The Islamic Development Bank Institute (IsDBI) is a knowledge organization that aims to address the economic challenges in MCs and communities through innovative solutions within the Islamic economics and finance framework. Established in 1981 as the Islamic Research and Training Institute (IRTI), the Institute was renamed in April 2021 as the Islamic Development Bank Institute (IsDBI) to better align with the IsDB Group’s emerging priorities. The Institute leads initiatives to unleash the potential of Islamic finance as an efficient tool for social and economic development
+[page 19]
 
 
 1.2 Strategic Objectives The Institute’s strategic direction is formulated based on the “Blue Ocean Strategy.” This means searching for fresh (blue) waters with the potential for delivering high value, while avoiding crowded areas (red water). In practice, this refers to the pursuit of opportunities and activities that create added value at minimum cost. The Institute avoids replication of the work of other organisations, and capitalises on its comparative advantages to uniquely position itself. In light of this strategy, the Institute adopted four Strategic Objectives as follows:
@@ -159,6 +150,7 @@ Chapter 1 Strategic Orientation This chapter presents the Institute's strategic 
 2. Building Human Capital:The core of any sustainable development strategy is human capital. Therefore, the Institute employs frontier technologies, and applies a sustainable set of human values at the core of its business, to formulate unique programmes for building the next generation of knowledge leaders and entrepreneurs to lead the development of MCs. The Institute aims to lead in providing learning and capacity building to support MCs in achieving the SDGs.
 3. Adopting a Problem-Solving Approach: IsDBI adopts an up-to-date problem-solving approach to find authentic and real-time solutions to MCs’ economic impediments. Hence, the Institute focuses on applied and productive studies, translating intellectual creativity to real- world applications. This will enable the Institute to distinguish itself from and complement academia, consulting firms, and related industry players.
 4. Creating Strong Partnerships and Networks: Over the years, the Institute has leveraged its accumulated knowledge and experience in Islamic Finance to collaborate with local and international development institutions. IsDBI continues to play a unique role in working with its stakeholders and future partners to support MCs’ development via innovative systems and state-of-the-art technologies guided by the principles of Islamic Finance.
+[page 19]
 
 
 1.3 Main Functions:
@@ -168,6 +160,7 @@ Chapter 1 Strategic Orientation This chapter presents the Institute's strategic 
 - Building human capital in Islamic finance and development
 - Publishing in Islamic economics and finance
 - Fostering the development of Islamic finance ecosystems
+[page 20]
 
 
 1.4 Organizational Structure: IsDBI has a flat organisational structure that promotes agility of decision making. The Institute has four business units, namely: Knowledge Leaders Section, Knowledge Solutions Section, Knowledge Horizons Section, and Corporate Performance Section. An overview of the units is given below: Knowledge Leaders Section: This is the focal point for the Institute’s Islamic finance sector transformation program and capacity building programs. It is responsible for knowledge creation and dissemination in relation to Islamic economics and finance. The key responsibilities of the team include:
@@ -178,12 +171,13 @@ Chapter 1 Strategic Orientation This chapter presents the Institute's strategic 
 - Contributing to the development of the MCPS by providing input on the Islamic finance sector for the country diagnostics.
 - Supervising and managing the development and delivery of innovative and effective learning and certification programs in partnership with other institutions inside and outside IsDB MCs.
 - Designing and implementing the Institute’s e-Learning Programs to enhance the knowledge and skills of individuals, institutions and stakeholders in IsDB MCs and non-MCs. Chapter 2 Islamic Finance Sector Transformation This chapter reports the accomplishments in leading the transformation of the Islamic financial industry through various initiatives.
+[page 20]
+
 Knowledge Solutions Section: The team synergizes knowledge technologies with Islamic finance for the development of innovative solutions addressing challenges facing MCs and the Islamic finance industry. The key responsibilities of the team include:
 - Leading the design and structuring of innovative, knowledge-based solutions to the development challenges of MCs in line with the principles of Islamic Economics and Finance.
 - Serving as a focal point for knowledge management and innovative technologies for the IsDB Group and MCs.
 - Leading the development and execution of the Islamic Finance Knowledge Pavilion Platform, which aims to be the leading marketplace for advisers, consultants, and fintech experts in Islamic finance and economic development.
 - Overseeing and coordinating the provision of intellectual property protection for the Institute’s innovative solutions by way of patents and similar means, and capitalising on these patents to ensure the financial sustainability of the Institute.
-
 
 Knowledge Horizons Section: This team is the focal point for the outreach, customer relations, and publishing activities of the Institute. The key responsibilities of the team include:
 - Designing and implementing media and marketing programmes to enhance the visibility of the Institute and its knowledge products across target markets.
@@ -198,18 +192,37 @@ Corporate Performance Section: This team is responsible for translating the Inst
 - Supervising and maintaining the proper implementation of the Rules and Regulations of the Institute.
 - Establishing robust and agile systems and procedures for the Institute to ensure quality products and services to clients and stakeholders.
 - Overseeing performance management for the IsDBI.
+[page 21]
+
 """
 
 
 chapter2= """
 Chapter 2 Islamic Finance Sector Transformation This chapter reports the accomplishments in leading the transformation of the Islamic financial industry through various initiatives.
+[page 22]
+
 2.1 Leading the Islamic Finance Industry: One of the key functions of IsDBI is to lead the development of an enabling environment for Islamic finance to serve as a catalyst for achieving the development goals of MCs. In this respect, IsDBI supports diverse sectors through different types of interventions. The varying nature of interventions, depending on the needs of the beneficiary country/organisation, includes development of legal and regulatory frameworks, country masterplans, thematic policies, capacity building, products development, technology- aided solutions, and technical support in applying standards of best practices in the Islamic finance industry. The interventions aim to reinforce the impact of Islamic finance on sustainable development and to promote inclusive growth and economic stability.
+[page 23]
 
-
-Box 2.1: Box 2.1: Objectives of the Islamic Finance Sector Transformation Program
+Box 2.1: Objectives of the Islamic Finance Sector Transformation Program
 A. To support the transformation and development of the Islamic finance industry to support sustainable development.
 B. To contribute to the creation of an enabling environment (legal, regulatory, and supervisory frameworks) for the development of the Islamic financial services industry in the IsDB MCs.
 C. To facilitate the standardization and harmonization of the practice of Islamic finance across IsDB MCs.
+[page 23]
+
+
+
+
+2.2 Islamic Finance Grants Program:
+As part of its leadership role in developing Islamic finance ecosystems, the Institute has revitalised the Islamic Finance Grants Program to support the transformation and development of the Islamic Financial Services Industry (IFSI). The grants program, historically known as the Islamic finance technical assistance programme, has been one of the core intervention instruments of the IsDB Group in shaping the global Islamic finance landscape. The funding for the program comes from the Islamic Finance Special Allocation approved by the IsDB Board of Governors in 2013 and subsequently renewed over time with the latest extension for the use of the funds during the period 2022-25.
+The objectives of the program include supporting IFSI stakeholders, through grant projects, to create an enabling environment for all the sectors of the Islamic finance industry in their respective jurisdictions. These stakeholders typically include central banks, ministries of finance, capital market authorities, other regulatory and supervisory agencies, commercial and investment banks, takaful companies, and other financial services stakeholders. In addition to IsDB Member and Non-Member Country stakeholders, Islamic finance grants are also offered to Islamic finance infrastructure institutions for developing standards, guidelines, and best practices for the Islamic Financial Services Industry (see more in Section 2.4).
+[page 23]
+
+Grant projects typically kick-off with scoping to understand beneficiary needs and identifying issue areas. Once these areas are identified, a suitable intervention mechanism will be designed. Afterward, the grant will be approved, and the implementation stage will begin. This stage will comprise the execution of the grant project, financial disbursements, technical advisory, and achievement of the program objectives leading to project completion.
+In the past 10 years (2013-23), a total of 175 Islamic Finance Grant projects were programmed worth nearly US$ 21.7 million in commitments1. Among these, 95 projects have been successfully completed benefiting more than 35 IsDB MCs and non-MCs. The program has also supported more than 10 international partner organisations including the Islamic finance infrastructure Institutions. These interventions have paved the way for introducing and strengthening Islamic finance worldwide by creating the requisite enabling environment consisting of  legal, regulatory, and supervisory frameworks, building local capacities, and transferring knowledge
+Focusing on the year 2023, the Institute programmed and approved 15 new technical assistance projects of about US$ 2.3 million for various countries and international organizations. These were Nigeria, Kazakhstan, Morocco, Tunisia, Libya, Mauritania, International Committee of the Red Cross (ICRC), International Islamic Financial Market (IIFM), Islamic Financial Services Board (IFSB), and Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI). The new projects approved in 2013 were in addition to the 67 already approved projects that are under implementation.
+Additionally, 10 technical assistance projects launched earlier were completed in 2023 worth a total of US$ 923,000. Overall, the technical assistance portfolio supports a wide spectrum of technical work areas including Islamic banking, Islamic capital markets, Takaful as well as the Islamic social finance sector.
+[page 23,24]
 
 
 Table 2.1: Islamic Finance Grants Projects completed in 2023
@@ -224,18 +237,7 @@ Table 2.1: Islamic Finance Grants Projects completed in 2023
 7 | Mozambique | IFG | Creating Legal and Regulatory Environment for Islamic Finance
 8 | Niger | CBA | Waqf Regulatory Framework in Niger
 9 | Spain | CBA | Islamic Finance Changemakers Project
-
-
-2.2 Islamic Finance Grants Program:
-As part of its leadership role in developing Islamic finance ecosystems, the Institute has revitalised the Islamic Finance Grants Program to support the transformation and development of the Islamic Financial Services Industry (IFSI). The grants program, historically known as the Islamic finance technical assistance programme, has been one of the core intervention instruments of the IsDB Group in shaping the global Islamic finance landscape. The funding for the program comes from the Islamic Finance Special Allocation approved by the IsDB Board of Governors in 2013 and subsequently renewed over time with the latest extension for the use of the funds during the period 2022-25.
-The objectives of the program include supporting IFSI stakeholders, through grant projects, to create an enabling environment for all the sectors of the Islamic finance industry in their respective jurisdictions. These stakeholders typically include central banks, ministries of finance, capital market authorities, other regulatory and supervisory agencies, commercial and investment banks, takaful companies, and other financial services stakeholders. In addition to IsDB Member and Non-Member Country stakeholders, Islamic finance grants are also offered to Islamic finance infrastructure institutions for developing standards, guidelines, and best practices for the Islamic Financial Services Industry (see more in Section 2.4).
-
-
-Grant projects typically kick-off with scoping to understand beneficiary needs and identifying issue areas. Once these areas are identified, a suitable intervention mechanism will be designed. Afterward, the grant will be approved, and the implementation stage will begin. This stage will comprise the execution of the grant project, financial disbursements, technical advisory, and achievement of the program objectives leading to project completion.
-In the past 10 years (2013-23), a total of 175 Islamic Finance Grant projects were programmed worth nearly US$ 21.7 million in commitments1. Among these, 95 projects have been successfully completed benefiting more than 35 IsDB MCs and non-MCs. The program has also supported more than 10 international partner organisations including the Islamic finance infrastructure Institutions. These interventions have paved the way for introducing and strengthening Islamic finance worldwide by creating the requisite enabling environment consisting of  legal, regulatory, and supervisory frameworks, building local capacities, and transferring knowledge
-Focusing on the year 2023, the Institute programmed and approved 15 new technical assistance projects of about US$ 2.3 million for various countries and international organizations. These were Nigeria, Kazakhstan, Morocco, Tunisia, Libya, Mauritania, International Committee of the Red Cross (ICRC), International Islamic Financial Market (IIFM), Islamic Financial Services Board (IFSB), and Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI). The new projects approved in 2013 were in addition to the 67 already approved projects that are under implementation.
-Additionally, 10 technical assistance projects launched earlier were completed in 2023 worth a total of US$ 923,000. Overall, the technical assistance portfolio supports a wide spectrum of technical work areas including Islamic banking, Islamic capital markets, Takaful as well as the Islamic social finance sector.
-
+[page 24]
 
 2.3 Flagship Transformation Projects: IsDBI’s flagship projects focus on identifying and aiming to address the most pressing challenges in the MCs. The projects leverage Islamic finance and technology to create strategic and holistic solutions to address the identified issues. The objectives are to engage in innovation and produce practical solutions to the development needs; help in facilitating the enhanced business and economic relations among IsDB MCs; and support mainstreaming Islamic finance in IsDB MCs. For each flagship project, the activities include identifying a specific development challenge, proposing innovative solutions, testing proof-of- concept, generating feasibility reports, and pilot implementation of the solution. Currently, four flagship projects are at various stages of implementation, as follows:
 - Awqaf Free Zones: This project aims to innovatively combine the
@@ -267,6 +269,8 @@ pilot implementation stage. In 2023, assessments
 were completed for Uzbekistan and Kazakhstan,
 and preliminary discussions were held with Nigeria,
 Morocco and Turkiye for 2024 assessments.
+[page 25]
+
 
 
 2.4 Islamic Finance Infrastructure Institutions:The rapid expansion of the global Islamic
@@ -301,12 +305,14 @@ representation in meetings, and professional staff
 inputs into the technical work programs. In 2023,
 the IsDBI managed all the coordination matters
 for these institutions on behalf of the IsDB.
+[page 25]
 
 
 Box 2.2: Goals of the Islamic Finance Infrastructure Institutions Program
 A. To coordinate, support, and technically contribute towards the Islamic finance infrastructure institutions established by the IsDB.
 B. To help the Islamic Infrastructure Institutions become credible standard-setting institutions that play an instrumental role in the harmonization and standardization of Islamic finance practice.
 C. To support Islamic Finance Infrastructure Institutions become self-sustaining institutions and reliable points of reference.
+[page 26]
 
 
 2.5 Knowledge Creation & Dissemination: A key function of the Institute is to produce and
@@ -338,6 +344,7 @@ Finance Conference, AIFC-IsDBI Islamic Finance
 Conference, IsDBI Activities in COP 28 in Dubai,
 BILIF-IsDBI Seminar in Brunei and so on. [For
 more, see Chapter 5 and Annex 5].
+[page 26]
 
 
 2.6 Islamic Financial Products: The Institute develops innovative Islamic finance
@@ -355,6 +362,7 @@ women’s financial inclusion through Islamic
 finance. These initiatives were conducted in
 coordination with various partners both within
 the IsDB Group and externally.
+[page 26]
 
 
 2.7 IsDB Prize for Impactful Achievement in Islamic Economics:
@@ -380,6 +388,7 @@ integration between commercial and social Islamic
 finance. The winner received a US$100,000 cash
 award. However, the second and third-position
 prizes were withheld in 2023.
+[page 26,27]
 
 
 Box 2.3: Cash Waqf Linked Sukuk:
@@ -410,6 +419,9 @@ Committee decided to award the IsDB Prize for
 Impactful Achievement in Islamic Economics
 (1444H, 2023) to Cash Waqf Linked Sukuk as the
 first-place winner.
+[page 27]
+
+
 Following the completion of the 2023 prize cycle, IsDBI opened the nominations for the 2024
 cycle of the prize which is in the Knowledge Contribution category. This category of the prize
 aims to recognize, reward, and encourage significant knowledge contributions in areas related to
@@ -418,12 +430,15 @@ MCs. The winners will receive the award during the IsDB Group Annual Meetings, s
 April 2024 in Riyadh, Saudi Arabia. More details are available on the dedicated IsDB Prize website:
 https://prize.isdbinstitute.org
 Knowledge Contribution 2:$ 30,000, 1:$ 50,000, 3:$ 20,000; Development Solution Achievement 2:$ 70,000, 1:$ 100,000, 3:$ 30,000 
+[page 27]
+
 
 """
 
 chapter3 ="""
-
 Chapter 3 Capacity Development This chapter covers the Institute’s activities in human capital development, including training and learning programs.
+[page 28]
+
 3.1 Training Program:
 sDBI leads in developing human capital in Islamic
 economics and finance through a range of training
@@ -466,6 +481,7 @@ driven research that supports evidence-based
 policymaking. Over 40 staff attended the program,
 which was held on 24-25 January 2023 at the IsDB
 Headquarters in Jeddah, KSA.
+[page 29]
 
 
 Managing Islamic Social Finance: This program
@@ -483,6 +499,8 @@ zakat, the governance of zakat institutions, the role
 of zakat in achieving SDGs, the use of fintech in
 zakat, and success stories in zakat management in
 IsDB MCs.
+[page 29]
+
 AAOIFI Accounting Standards: IsDBI and the
 Capacity Building and Training Institute of the
 Arab Monetary Fund (AMF) jointly organized the
@@ -502,6 +520,7 @@ training workshop on 15-17 February 2023 on
 within the framework of the IsDB Islamic Finance
 Grant Program to develop Islamic financial services
 industry in IsDB MCs.
+[page 30]
 
 
 IsDBI-BIBF Joint Specialized Training: In
@@ -527,6 +546,9 @@ University (KSA) and I.E. Business School (Spain) to
 organize and support the executive program. One
 of the sessions was on IsDBI’s Sukuk Enhancement
 Fund.
+[page 30]
+
+
 Islamic Capital Markets in Nigeria: IsDBI joined forces with the Nigerian Exchange Limited (NGX)
 to deliver an influential Islamic capital markets capacity-building workshop in Lagos, Nigeria.
 Organized under the theme “Economic Growth and Business Development Opportunities through
@@ -534,6 +556,7 @@ the Islamic Capital Markets”, the workshop aimed to contribute to deepening th
 markets through the listings and issuances of Islamic financial instruments. The workshop, held
 on 21 November 2023, attracted 90 participants from across the Nigerian economic and financial
 sectors.
+[page 30]
 
 
 3.2 Massive Open Online Courses (MOOCs): 
@@ -553,6 +576,7 @@ As well as the new courses currently being
 developed, IsDBI is formulating a comprehensive
 e-learning strategy that will target delivering
 training programs online to a larger audience.
+[page 31]
 
 
 3.3 Development of Training Packages: 
@@ -570,16 +594,21 @@ applications in Islamic financial institutions. The
 objective of updating this package is to ensure all
 stakeholders are exposed to the latest provisions of
 AAOIFI’s Financial Accounting Standards.
+[page 31]
+
 Box 3.1: IsDBI Massive Open Online Courses (2023) 
 - Number of Attendees:3,400 - Number of Countries of Attendees:130 
 - Number of Active Courses:4 
 - Top 5 Countries of Attendees (Nigeria, Malaysia, Indonesia, Saudi Arabia and Pakistan)
+[page 31]
 
 """
 
 
 chapter4 = """
 Chapter 4 Fintech Solutions This chapter focuses on the Institute’s work in developing fintech solutions to address challenges facing IsDB MCs.
+[page 32]
+
 4.1 Synergizing Tech with Islamic Finance: 
 IsDBI has continued to lead the way in synergizing
 knowledge technologies with Islamic finance to
@@ -589,7 +618,7 @@ technologies and strategic partnerships, the
 Institute in 2023 embarked on numerous ambitious
 projects for cutting-edge solutions in Islamic
 finance and technology.
-
+[page 33]
 
 4.2: The Smart Stabilization System: 
 In 2023, IsDBI kicked off building a prototype for
@@ -643,12 +672,14 @@ the stability of not only price but also the volume
 of transactions. The algorithm is currently patent
 pending with the Intellectual Property Office of
 Singapore (IPOS).
+[page 33]
+
 Box 4.2: Key Features of the Islamic Finance AI Assistant: 
 • A tool that uses AI models to provide insights into Islamic finance knowledge from a variety of credible and reliable sources 
 • Ability to query and summarize reports, and explain Islamic financial concepts in a conversational way 
 • Shows remarkable capabilities in elucidation of Islamic financial principles 
 • More functions to be added: AI-based assistants for legal and regulatory frameworks, Islamic finance training, etc.
-
+[page 34]
 
 4.3 Islamic finance AI assistant
 The year 2023 witnessed the development
@@ -677,6 +708,7 @@ reporting, and Islamic finance training. This
 expansion is aimed at enhancing decision-making
 processes and fostering a deeper understanding of
 Islamic finance.
+[page 34]
 
 
 4.4 Islamic Finance Pavilion Marketplace:
@@ -701,11 +733,12 @@ studies, developing the platform, including web
 and app development, and providing training and
 support. The project, which started on 19 December
 2023, aims for a launch in Q3 2024.
-
+[page 34]
 
 4.5 Fintech Initiative under GIFIIP:
 IsDBI is collaborating with the UNDP's Istanbul International Center for Private Sector in Development (ICPSD) for a partnership with the Indonesian Shariah Fintech Association (AFSI) on the "Islamic Fintech Solutions for the LDCs" project. The project is under the Digital Solutions for Financial Inclusion component of the ISDB-UNDP Global Islamic Finance and Impact Investing Platform (GIFIIP). This initiative is focused on researching and developing Islamic fintech solutions, particularly targeting Least Developed Countries (LDCs). By exploring the potential and applicability of these solutions in countries like Afghanistan, Bangladesh, and Djibouti, the program aims to foster economic empowerment and financial inclusivity.
 The research conducted under this initiative is expected to provide valuable insights into the unique challenges and opportunities within these economies. The findings are set to inform future projects and strategies aimed at integrating Islamic fintech solutions more broadly in LDCs, thereby enhancing their financial infrastructure and inclusivity. 
+[page 35]
 
 
 4.6 Islamic Finance Regulatory Sandbox:
@@ -713,16 +746,20 @@ This planned project is to create a conducive environment for testing innovative
 Regulatory sandboxes have become instrumental platforms for fintech companies to test new solutions in a time-bound controlled environment, enabling regulators to understand the implications of these innovations. Typically, firms that apply to enter a regulatory sandbox have already developed an offering and wish to test its viability in the market.
 While several countries have launched such initiatives with substantial success, there is a distinct gap for fintech solutions tailored to Islamic finance. Integrating the sandbox model with the distinct needs of Islamic finance could foster an environment conducive to developing Sharia- compliant fintech advancements. It can be linked to financial inclusion mandates and potentially encourage innovations that reduce barriers to inclusion.
 By providing a controlled yet flexible regulatory framework, the sandbox is designed to encourage innovation while ensuring compliance with Islamic finance principles. This initiative is expected to accelerate the growth of fintech solutions in the Islamic finance sector. The project is planned to begin in Q2 of 2024 and be completed in one year.
+[page 35]
 
 
 4.7 Global Innovation Hub: 
 This project aims to support the feasibility studies for the development of a Global Innovation Hub (GIH) within the Knowledge Economic City (KEC) in Madinah, Kingdom of Saudi Arabia. It marks an ambitious step towards establishing a leading center for Islamic finance innovation. The hub aims to support entrepreneurs from IsDB MCs and Muslim communities in non-member countries to create and expand value-creating projects in the areas of Islamic finance and the Halal economy. The project is planned to begin in Q1 2024 and be completed at the end of 2024.
 The feasibility studies are expected to support the substantial potential for KEC and GIH to serve as catalysts in Islamic finance, fostering innovation and growth. The findings will guide strategic development, positioning KEC as a global leader in this sector.
+[page 35]
 
 """
 
 chapter5 = """
 Chapter 5 Global Outreach This chapter reports on the global outreach initiatives that include partnerships, publishing, media, and events.
+[page 36]
+
 5.1 Partnerships for Delivery: 
 n 2023, the Institute has harnessed the value of collaborations to amplify its influence in MCs. This
 strategic approach has resulted in several noteworthy achievements through collaborations with major
@@ -744,7 +781,7 @@ success by unlocking productivity gains from
 technology adoption, narrowing the digital
 divide, and expanding its participation in global
 value chains.
-
+[page 37]
 
 In the third partnership, the Statistical,
 Economic and Social Research and Training
@@ -770,6 +807,7 @@ reporting progress on SDG 8 (Decent Work
 and Economic Growth) indicators, and 3)
 implementing best practices for impactful
 e-learning programs in official statistics.
+[page 37]
 
 5.2 Publications: 
 The Institute provides market insights and practical analysis for addressing the development challenges
@@ -780,6 +818,7 @@ In 2023, a number of publications were issued on diverse topics including Islami
 strategies, climate action, takaful, sukuk, and social entrepreneurship. Some of the major publications
 are highlighted below under their respective categories, while a full list of publications issued in 2023 is
 in Annex 1.
+[page 38]
 
 5.2.1 Islamic Finance & Development
 Building Climate Resilience Through Takaful: This report from
@@ -814,6 +853,8 @@ oldest and most respected scholarly journals in Islamic Economics and Finance. I
 journal targeted at professional and academic economists and students. Since 2020, the journal has
 been published in partnership with Emerald. In 2023, two issues of the journal were published and are
 available on Emerald Insight website.
+[page 38]
+
 5.2.2 Economic Research & Analysis
 A core component of the IsDB’s Member Country Partnership
 Strategy is in-depth country diagnostic studies. These studies,
@@ -833,6 +874,7 @@ Perspectives, and Quarterly Brief on Global Economic Trends. These publications 
 monitoring tools, pivotal in supporting evidence-based decision-making within the IsDB Group. These
 reports guide the Bank’s strategic interventions by providing in-depth insights into the ever-evolving
 landscape of IsDB MCs and the broader economic context.
+[page 39]
 
 
 5.2.3 Statistical Publications
@@ -858,6 +900,7 @@ of IsDB Group. These publications serve as a valuable resource for internal part
 ensuring they stay abreast of the most recent data. This up-to-date information aids in formulating
 targeted strategies for effective engagement with MCs, aligning the IsDB Group’s initiatives with the
 evolving needs and conditions of the countries it serves.
+[page 39]
 
 
 5.3 Cloud Reader for e-Books
@@ -885,7 +928,7 @@ has been well-received by users from around the
 world, who have downloaded thousands of e-books
 since its launch. The Cloud Reader is accessible
 here: https://read.isdbinstitute.org
-
+[page 40]
 
 5.4 IsDB Group Library
 The IsDB Group Library continues to serve as a hub
@@ -910,6 +953,7 @@ and loan modules of the system during the trial
 phase. The system, available in English, Arabic, and
 French languages, is currently being cleaned up, in
 readiness for a full rollout to staff.
+[page 40]
 
 
 5.5 Outreach Initiatives
@@ -949,6 +993,7 @@ backgrounds and regions. Annex 4 contains a list of
 blog articles published in 2023, while all published
 articles are available on the blog site here:
 https://blogs.isdbinstitute.org/
+[page 40]
 
 
 5.6 Conferences & Knowledge Events
@@ -966,7 +1011,7 @@ forum brought together industry experts to discuss how digital innovations, like
 can drive financial inclusivity and resilience. The forum was co-organized with three knowledge
 partners: King Abdullah University of Science and Technology (KAUST), Effat University, and
 University of Business and Technology (UBT), Jeddah, KSA.
-
+[page 41]
 
 Particularly noteworthy were the panel discussion
 sessions, the first on the application of smart
@@ -987,6 +1032,9 @@ Ahmad Mohammad Ali. The book was first published
 in Arabic language in 2020, followed by the English
 language version in 2022 and the French version in
 2023.
+[page 42]
+
+
 Evolving Role of Central Banks in Times of Uncertainty
 The Institute organized a public lecture on 17
 August 2023 titled ‘The Changing Role of Central
@@ -1012,6 +1060,7 @@ preventing unemployment and managing fiscal deficits with financing development.
 stakeholder collaboration to address the issues
 so as to strengthen the role of Islamic finance in
 promoting sustainable economic growth.
+[page 42]
 
 
 Current State of the Global Islamic Finance Industry
@@ -1030,6 +1079,8 @@ market fluctuations, and technology. He identified
 collaboration among stakeholders as one of the
 key steps towards finding solutions to ensure
 sustainable development for the industry.
+[page 43]
+
 OIC COMCEC Central Banks Forum
 IsDBI’s participated in the OIC COMCEC Central
 Banks Forum focusing on Central Bank Digital
@@ -1044,7 +1095,7 @@ positioned IsDBI as a thought leader in the digital
 currency space, and set the stage for future
 collaborations and innovations in Islamic digital
 finance.
-
+[page 43]
 
 IsDB Prize Laureates Lecture
 This is part of a series in which the winners
@@ -1060,6 +1111,8 @@ initiative of the Indonesian Finance Ministry, “Cash
 Waqf Linked Sukuk” (CWLS) won the prestigious
 IsDB Prize for its immense impact in mobilizing
 development finance.
+[page 43]
+
 Global Standards for Central Bank Digital Currency
 The Institute was a knowledge partner in the
 conference entitled “Exploring Central Bank Digital
@@ -1079,6 +1132,8 @@ innovative Islamic financial solutions, such as
 digital voucher and credit enhancement system,
 and the development of a stabilization system
 prototype.
+[page 44]
+
 18th AAOIFI - IsDB Annual Conference
 Jointly organised with AAOIFI, this conference
 was held on 29-30 November 2023 in Bahrain
@@ -1099,9 +1154,13 @@ Maldives Monetary Authority, and National
 Bank of Tajikistan. The conference featured
 42 speakers in seven sessions, as well as
 keynote addresses.
+[page 44]
+
 """
 chapter6 = """
 Chapter 6 Strengthening Institutional Effectiveness This chapter covers the Institute’s programs and activities related to strengthening internal governance and operational effectiveness.
+[page 46]
+
 6.1 Board of Trustees
 The Board of Trustees (BOT) is an advisory organ
 mandated to provide guidance and direction
@@ -1124,7 +1183,7 @@ and achievements. Furthermore, the Board
 commended the Institute’s leadership role in
 integrating modern technologies with Islamic
 finance to foster socio-economic development.
-
+[page 47]
 
 6.2 IsDBI Project Management Center
 To enhance efficiency and effectiveness in
@@ -1160,6 +1219,7 @@ monitor and track programs and projects
 more easily and quickly. The initiative will also
 enable the generation of real-time quarterly
 performance reports directly on the platform.
+[page 47]
 
 
 6.3 Driving Business Excellence
@@ -1168,6 +1228,8 @@ goals, making sure that its activities support its vision and mission for the lo
 team made remarkable progress in improving IsDBI’s performance indicators, strengthening data-
 based decision making, and fostering a culture of ongoing improvement across the Institute. The
 following are some of the main accomplishments in 2023.
+[page 48]
+
 6.3.1 Strategic Alignment
 The team successfully aligned institutional goals
 with the IsDBI’s overarching strategy, ensuring a
@@ -1177,6 +1239,8 @@ decisions have been issued, such as updating
 the Special Allocation Guidelines (SAG), creating
 a new in-house projects committee, and
 developing a new project completion report.
+[page 48]
+
 6.3.2 Performance Metrics Enhancement
 Through rigorous analysis and stakeholder
 engagement, the team enhanced IsDBI’s
@@ -1191,6 +1255,8 @@ in institutional development, performance
 evaluation, assessment, and planning. The team
 shared timely information accurately with the
 management.
+[page 48]
+
 6.3.3 Process Optimization and Quality
 Assurance
 The team led several initiatives to streamline
@@ -1215,6 +1281,7 @@ deliver effective coordination with the other relevant
 departments of the IsDBG. In 2023, the Institute
 initiated a new methodology for the pipeline, under
 implementation, and “need to be closed” projects.
+[page 48]
 
 
 Additionally, the team managed the business
@@ -1238,6 +1305,7 @@ minimized.
 - Teams have enhanced the integration process, and
 effective project execution and completion have
 been achieved.
+[page 48]
 
 Ultimately, the Institute has operated its
 projects more profitably and cost-effectively
@@ -1264,26 +1332,40 @@ The CPT will continue to play a pivotal role in the
 Institute in the years to come, through focus on
 excellence, data-driven insights, and employee
 engagement.
+[page 49]
+
 """
 
 annexes = """
 Annex 1 Publications
+[page 50]
+
 Name of publications
 --------------------
 The Islamic Development Bank and Dr. Ahmad Mohammad Ali (French Edition)
 IFSI Development Ten-Year Framework and Strategies: A Final Review
 Insuring a Sustainable Future
+[page 51]
+
 Knowledge Review, Vol. 9 No. 2)
 Islamic Economic Studies Journal (Vol. 30 Issue 2 & Vol. 31 Issue 1)
 IsDB Annual Report 2022 (Arabic, English, and French)
+[page 52]
+
 IsDBI Annual Report 2022 (Arabic, English, and French)
 Statistical Yearbook (2022)
 Country Diagnostic Studies
+[page 53]
+
 Reaching the SDGs: Progress of the IsDB Member Countries (5 th Edition)
+IsDB Group in Brief
 Country Snapshot
+[page 54]
+
 IsDB Member Country Macro- Perspectives
 Member Country Macroeconomic Vulnerabilities
 Transforming Bangladesh’s participation in Trade and Global Value Chains
+[page 55]
 
 
 Annex 2: IsDB Prize Laureates
@@ -1337,7 +1419,7 @@ Year | Prize Category | Laureate | Citizenship/Country
 1442H/ 2021 | Development Solutions Achievement | LaunchGood (first prize),Seed Out (second prize) | United States,Pakistan
 1443H/ 2022 | Knowledge Contribution Achievement | Prof Habib Ahmed (first prize),Prof. Mansur Masih (second prize),Prof. Tariqullah Khan (third prize) | USA,Australia,Pakistan
 1444H/ 2023 | Development Solutions Achievement | Ministry of Finance of the Republic of Indonesia | Indonesia
-
+[page 56,57]
 
 Annex 3: Training Programs
 Title | Venue | Date | Language | Partner Institution | No. of Participants
@@ -1355,7 +1437,7 @@ Islamic Capital Markets Enabling Environment Roundtable | Nigeria, Lagos | 22-11
 Operational Aspects of Accounting Standards of Islamic Financial Institutions Part 2 | Institutions Virtual | 18-21/12/2023 | Arabic | Arab Monetary Fund | Prof. Khurshid Ahmad
 Islamic Finance Product Development | Virtual | 5/11/2023 | English | BIBF | Prof. Khurshid Ahmad
 Introduction to Multidimensional Poverty Measurement | Saudi Arabia, Jeddah | 24-25/1/2023 | English | IsDBI, ISFD & OPHI | 40
-
+[page 58]
 
 Annex 4: Blog Articles
 S/No | Title | Author
@@ -1378,6 +1460,7 @@ S/No | Title | Author
 16 | Milestones and Challenges in Egypt's Digital Financial Technology Adoption | Abdelrahman Elzahi Saaid Ali
 17 | ‫نحو هندسة مالية إسلامية خضراء ومستدامة‬ | Mahmoud Bekri
 18 | ‫الحافز المنحرف: تلك الكوبرا التي تلدغ التنمية‬ | Mahmoud Bekri
+[page 59]
 
 
 Annex 5: Conferences & Knowledge Events Annex 5A
@@ -1392,6 +1475,8 @@ S/No | Title | Venue
 7 | Exploring Central Bank Digital Currency: Pathways to Global Standards | Virginia, U.S.
 8 | 1st Islamic Business and Investment Forum in Kyrgyz Republic | Kyrgyz Republic
 9 | 6th Islamic Finance Forum | Algiers, Algeria
+[page 60]
+
 Annex 5: Conferences & Knowledge Events Annex 5B
 No | Title/Theme | Organizers/Partners
 --------------------------------------
@@ -1424,7 +1509,7 @@ No | Title/Theme | Organizers/Partners
 27 | Advanced Country Intelligence Monitor Service | IsDBI and S&P Global
 28 | Cash Waqf-Linked Sukuk: A Novel Mechanism | IsDBI
 29 | Regional Outlook for the Infrastructure & Construction Sector in MENA | IsDBI & EIU
-
+[page 61,62]
 """
 # Combine the content
 # combined_content =  chapter2_text
@@ -1437,6 +1522,10 @@ You are an assistant that only answers questions based on the provided text and 
 {combined_content}
 
 If a question is related to these chapters, answer based on the information provided. If the question is not related to these chapters, respond with "I don't know about it."
+if you got the answer then you must mention therse things:
+• Publication Title
+• Page number
+• Paragraph Information where you get this answer
 """
 
 
