@@ -57,7 +57,46 @@ Annex | 4 | Blog Articles | 59
 Annex | 5 | Conferences & Knowledge Events | 60
 
 
-Abbreviations: AAOIFI Accounting and Auditing Organization for Islamic Financial Institutions, AMF Arab Monetary Fund, BIBF Bahrain Institute of Banking & Finance, BOT Board of Trustees, CBDC Central Bank Digital Currencies, CIBAFI General Council for Islamic Banks and Financial Institutions, COMCEC Standing Committee for Economic and Commercial Cooperation of the OIC, CPT Corporate Performance Team, CWLS Cash Waqf Linked Sukuk, GCC Cooperation Council for the Arab States of the Gulf, GIFIIP Global Islamic Finance and Impact Investing Platform, GIH Global Innovation Hub, ICPSD Istanbul International Center for Private Sector in Development, ICRC International Committee of the Red Cross, IFAA Islamic Finance Artificial Intelligence Assistant, IFI Islamic Financial Industry, IF-MAP Islamic Finance Sector Mapping Framework, IFPM Islamic Finance Pavilion Marketplace, IFSB Islamic Financial Services Board, IICRA International Islamic Centre for Reconciliation and Arbitration, IIFM International Islamic Financial Market, III Islamic Infrastructure Institutions, IIRA Islamic International Ratings Agency, IPOS Intellectual Property Office of Singapore, IsDB Islamic Development Bank, IsDBI Islamic Development Bank Institute, KEC Knowledge Economic City, KSA Kingdom of Saudi Arabia, LDCs Least Developed Countries, MCPS Member-Country Partnership Strategy, MCs Member Countries, MOOCs Massive Open Online Courses, OECD Organisation for Economic Co-operation and Development, OMS Operations Management Solutions, OPHI Oxford Poverty and Human Development Initiative, PMC Project Management Center, SCMS Smart Credit Management System, SDGs Sustainable Development Goals, SMEs Small and Medium Enterprises, SSS Smart Stabilization System, UNDP United Nations Development Programme, WIPO World Intellectual Property Organization
+Abbreviations: 
+1. AAOIFI Accounting and Auditing Organization for Islamic Financial Institutions,
+2. AMF Arab Monetary Fund, BIBF Bahrain Institute of Banking & Finance,
+3. BOT Board of Trustees, CBDC Central Bank Digital Currencies,
+4. CIBAFI General Council for Islamic Banks and Financial Institutions,
+5. COMCEC Standing Committee for Economic and Commercial Cooperation of the OIC,
+6. CPT Corporate Performance Team,
+7. CWLS Cash Waqf Linked Sukuk,
+8. GCC Cooperation Council for the Arab States of the Gulf,
+9. GIFIIP Global Islamic Finance and Impact Investing Platform,
+10. GIH Global Innovation Hub,
+11. ICPSD Istanbul International Center for Private Sector in Development,
+12. ICRC International Committee of the Red Cross,
+13. IFAA Islamic Finance Artificial Intelligence Assistant, IFI Islamic Financial Industry,
+14. IF-MAP Islamic Finance Sector Mapping Framework, 
+15. IFPM Islamic Finance Pavilion Marketplace, 
+16. IFSB Islamic Financial Services Board, 
+17. IICRA International Islamic Centre for Reconciliation and Arbitration, 
+18. IIFM International Islamic Financial Market, 
+19. III Islamic Infrastructure Institutions, 
+20. IIRA Islamic International Ratings Agency, 
+21. IPOS Intellectual Property Office of Singapore, 
+22. IsDB Islamic Development Bank, 
+23. IsDBI Islamic Development Bank Institute, 
+24. KEC Knowledge Economic City, 
+25. KSA Kingdom of Saudi Arabia, 
+26. LDCs Least Developed Countries, 
+27. MCPS Member-Country Partnership Strategy, 
+28. MCs Member Countries, 
+29. MOOCs Massive Open Online Courses, 
+30. OECD Organisation for Economic Co-operation and Development, 
+31. OMS Operations Management Solutions, 
+32. OPHI Oxford Poverty and Human Development Initiative, 
+33. PMC Project Management Center, 
+34. SCMS Smart Credit Management System, 
+35. SDGs Sustainable Development Goals, 
+36. SMEs Small and Medium Enterprises, 
+37. SSS Smart Stabilization System, 
+38. UNDP United Nations Development Programme, 
+39. WIPO World Intellectual Property Organization
 
 
 Acknowledgements The 2023 Annual Report of the Islamic Development Bank Institute was prepared by the Knowledge Horizons Section, with inputs from the business units, based on the overall guidance of the Institute’s Management. UNDER THE SUPERVISION OF: Dr. Sami Al-Suwailem Acting Director General of IsDBI REPORT COORDINATOR: Habeeb Idris Pindiga CONTRIBUTORS ON BEHALF OF IsDBI BUSINESS UNITS: Mohammad Anamul Haque, Mehmet Fehmi Eken, Mohammad Khalid Jawahir, Syed Faiq Najeeb TRANSLATION COORDINATION: Wejdan Kenali, Mahmoud Bekri PRODUCTION SUPPORT Mahmoud Rashad Adel Al-Shotairy Majed Mahdi
