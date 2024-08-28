@@ -1548,7 +1548,11 @@ def ask_model(question, document_content,conditon=False):
     Based on the above document, please answer the following question: if user ask some thing give me complete answer. if user ask about table or some thing give me table.
     Question: {question}
     
-    If the question is not related to the document, respond with "sorry! I did not understand your question. please retry."
+    If the question is not related to the document, respond with "sorry! I did not understand your question. please retry.
+    if you got the answer then you must mention therse things:
+• Publication Title
+• Page number
+• Paragraph Information where you get this answer"
     """
     else:
         prompt = f"""You are an assistant that answers questions based on the provided text document. Here is the document:
