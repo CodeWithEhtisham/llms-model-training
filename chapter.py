@@ -1526,6 +1526,8 @@ if you got the answer then you must mention therse things:
 • Publication Title
 • Page number
 • Paragraph Information where you get this answer
+
+and box and tables are different if i ask about table just give me table info if i ask about paragraph give me paragraph info and if i ask about box give me box info.
 """
 
 
