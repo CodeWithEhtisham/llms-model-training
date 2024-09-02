@@ -317,6 +317,7 @@ comprise the execution of the grant project,
 financial disbursements, technical advisory, and
 achievement of the program objectives leading to
 project completion.
+[page 23,24]
 
 In the past 10 years (2013-23), a total of 175 Islamic
 Finance Grant projects were programmed worth
@@ -331,11 +332,14 @@ strengthening Islamic finance worldwide by creating
 the requisite enabling environment consisting of
 legal, regulatory, and supervisory frameworks,
 building local capacities, and transferring knowledge.
+[page 23,24]
 
 Focusing on the year 2023, the Institute
 programmed and approved 15 new technical
 assistance projects of about US$ 2.3 million for
 various countries and international organizations.
+[page 23,24]
+
 These were Nigeria, Kazakhstan, Morocco, Tunisia,
 Libya, Mauritania, International Committee of the
 Red Cross (ICRC), International Islamic Financial
@@ -345,10 +349,12 @@ for Islamic Financial Institutions (AAOIFI). The new
 projects approved in 2013 were in addition to
 the 67 already approved projects that are under
 implementation.
+[page 23,24]
 
 Additionally, 10 technical assistance projects
 launched earlier were completed in 2023 worth
-a total of US$ 923,000. Overall, the technical
+a total of US$ 923,000.
+Overall, the technical
 assistance portfolio supports a wide spectrum of
 technical work areas including Islamic banking,
 Islamic capital markets, Takaful as well as the
