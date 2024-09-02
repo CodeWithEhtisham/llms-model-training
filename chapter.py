@@ -351,9 +351,7 @@ the 67 already approved projects that are under
 implementation.
 [page 23,24]
 
-Additionally, 10 technical assistance projects
-launched earlier were completed in 2023 worth
-a total of US$ 923,000.
+Additionally, 10 technical assistance  projects launched  earlier  were completed  in  2023  worth a total of US$ 923,000.
 Overall, the technical
 assistance portfolio supports a wide spectrum of
 technical work areas including Islamic banking,
