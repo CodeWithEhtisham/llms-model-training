@@ -222,10 +222,52 @@ As part of its leadership role in developing Islamic finance ecosystems, the Ins
 The objectives of the program include supporting IFSI stakeholders, through grant projects, to create an enabling environment for all the sectors of the Islamic finance industry in their respective jurisdictions. These stakeholders typically include central banks, ministries of finance, capital market authorities, other regulatory and supervisory agencies, commercial and investment banks, takaful companies, and other financial services stakeholders. In addition to IsDB Member and Non-Member Country stakeholders, Islamic finance grants are also offered to Islamic finance infrastructure institutions for developing standards, guidelines, and best practices for the Islamic Financial Services Industry (see more in Section 2.4).
 [page 23]
 
-Grant projects typically kick-off with scoping to understand beneficiary needs and identifying issue areas. Once these areas are identified, a suitable intervention mechanism will be designed. Afterward, the grant will be approved, and the implementation stage will begin. This stage will comprise the execution of the grant project, financial disbursements, technical advisory, and achievement of the program objectives leading to project completion.
-In the past 10 years (2013-23), a total of 175 Islamic Finance Grant projects were programmed worth nearly US$ 21.7 million in commitments1. Among these, 95 projects have been successfully completed benefiting more than 35 IsDB MCs and non-MCs. The program has also supported more than 10 international partner organisations including the Islamic finance infrastructure Institutions. These interventions have paved the way for introducing and strengthening Islamic finance worldwide by creating the requisite enabling environment consisting of  legal, regulatory, and supervisory frameworks, building local capacities, and transferring knowledge
-Focusing on the year 2023, the Institute programmed and approved 15 new technical assistance projects of about US$ 2.3 million for various countries and international organizations. These were Nigeria, Kazakhstan, Morocco, Tunisia, Libya, Mauritania, International Committee of the Red Cross (ICRC), International Islamic Financial Market (IIFM), Islamic Financial Services Board (IFSB), and Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI). The new projects approved in 2013 were in addition to the 67 already approved projects that are under implementation.
-Additionally, 10 technical assistance projects launched earlier were completed in 2023 worth a total of US$ 923,000. Overall, the technical assistance portfolio supports a wide spectrum of technical work areas including Islamic banking, Islamic capital markets, Takaful as well as the Islamic social finance sector.
+Grant projects typically kick-off with scoping to
+understand beneficiary needs and identifying
+issue areas. Once these areas are identified, a
+suitable intervention mechanism will be designed.
+Afterward, the grant will be approved, and the
+implementation stage will begin. This stage will
+comprise the execution of the grant project,
+financial disbursements, technical advisory, and
+achievement of the program objectives leading to
+project completion.
+
+In the past 10 years (2013-23), a total of 175 Islamic
+Finance Grant projects were programmed worth
+nearly US$ 21.7 million in commitments1. Among
+these, 95 projects have been successfully completed
+benefiting more than 35 IsDB MCs and non-MCs.
+The program has also supported more than 10
+international partner organisations including the
+Islamic finance infrastructure Institutions. These
+interventions have paved the way for introducing and
+strengthening Islamic finance worldwide by creating
+the requisite enabling environment consisting of
+legal, regulatory, and supervisory frameworks,
+building local capacities, and transferring knowledge.
+
+Focusing on the year 2023, the Institute
+programmed and approved 15 new technical
+assistance projects of about US$ 2.3 million for
+various countries and international organizations.
+These were Nigeria, Kazakhstan, Morocco, Tunisia,
+Libya, Mauritania, International Committee of the
+Red Cross (ICRC), International Islamic Financial
+Market (IIFM), Islamic Financial Services Board
+(IFSB), and Accounting and Auditing Organization
+for Islamic Financial Institutions (AAOIFI). The new
+projects approved in 2013 were in addition to
+the 67 already approved projects that are under
+implementation.
+
+Additionally, 10 technical assistance projects
+launched earlier were completed in 2023 worth
+a total of US$ 923,000. Overall, the technical
+assistance portfolio supports a wide spectrum of
+technical work areas including Islamic banking,
+Islamic capital markets, Takaful as well as the
+Islamic social finance sector.
 [page 23,24]
 
 
