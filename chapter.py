@@ -1676,19 +1676,23 @@ def ask_model(question, document_content,conditon=False):
     # Create the prompt with the document content and the user's question
     if conditon:
         prompt = f"""
-    You are an assistant that answers questions based on the provided text document. Here is the document:
+You are an assistant that answers questions based on the provided text document. Here is the document:
 
-    {document_content}
+{document_content}
 
-    Based on the above document, please answer the following question: if user ask some thing give me complete answer. if user ask about table or some thing give me table.
-    Question: {question}
-    
-    If the question is not related to the document, respond with "sorry! I did not understand your question. please retry. also answer should be understandable and formal.
-    if you got the answer then you must mention therse things:
-• Publication Title
-• Page number
-• Paragraph Information where you get this answer.
-    """
+Based on the above document, please answer the following question thoroughly and provide a complete response. If the user asks for a table or numerical data, present it clearly in a table format. 
+
+Ensure that your response is formal, understandable, and provides all relevant details, including:
+
+- **Publication Title:** Mention the title of the publication where the information was found.
+- **Page Number:** Include the page number where the information appears.
+- **Paragraph Information:** Describe the section or paragraph where you found the answer.
+
+If the question is not related to the document or the information cannot be found, respond with: "Sorry! I did not understand your question. Please retry."
+
+Question: {question}
+"""
+
     else:
         prompt = f"""You are an assistant that answers questions based on the provided text document. Here is the document:
 
