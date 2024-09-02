@@ -6,7 +6,7 @@ import os
 from chapter import book_knowledge, chapter1, chapter2, chapter3, chapter4, chapter5, chapter6, annexes, ask_model
 
 # Combine all chapters
-all_chapter = book_knowledge + chapter1 + chapter2 + chapter3 + chapter4 + chapter5 + chapter6 + annexes
+all_chapter = book_knowledge + chapter1 + chapter2 + chapter3 + chapter4 + chapter5 + chapter6 +  annexes
 
 # Add custom CSS to style the header like a navbar
 st.markdown(

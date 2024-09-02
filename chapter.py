@@ -99,39 +99,43 @@ YEAR IN REVIEW The Islamic Development Bank Institute (IsDBI) is a knowledge org
 
 
 2023 AT A GLANCE: Islamic Finance Grants Program
-$2.3 million Project Approvals (2013)
-$923,000 Completed Projects (2023)
-$21.7 million Cumulative Approvals (2013-2023)
-95 Projects Completed (2013-2023)
-35 Countries Benefitted
-10 International Organizations Supported
+- $2.3 million Project Approvals (2013).
+- $93,000 Completed Projects (2023).
+- $21.7 million Cumulative Approvals (2013-2023).
+- 95 Projects Completed (2013-2023).
+- 35 Countries Benefitted.
+- 10 International Organizations Supported.
+[page 16]
 
 New and On-Going Initiatives:
-Islamic Finance AI AssistantOIC Smart,
-OIC Smart Countertrade System Digital postal service,
-Digital Postal Islamic Financial Services Projectslamic Finance Industry Mapping,
-Smart Stabilization System
-Islamic Finance Pavilion Marketplace
-Awqaf Free Zones
+- Islamic Finance AI AssistantOIC Smart.
+- OIC Smart Countertrade System Digital postal service.
+- Digital Postal Islamic Financial Services Projectslamic Finance Industry Mapping.
+- Smart Stabilization System.
+- Islamic Finance Pavilion Marketplace.
+- Awqaf Free Zones.
 [page 16]
 
 Capacity Building: 
-13 Training Programs; 
-+300 Participants
+- 13 Training Programs.
+- +300 Participants.
+[page 17]
 
 Massive Open Online Courses:
-Number of Attendees 3,400
-Number of Countries of Attendees 130;
-Number of Active Courses 4
-Top 5 Countries of Attendees Nigeria, Malaysia, Indonesia, Saudi Arabia and Pakistan
+- Number of Attendees 3,400.
+- Number of Countries of Attendees 130.
+- Number of Active Courses 4.
+- Top 5 Countries of Attendees (Nigeria, Malaysia, Indonesia, Saudi Arabia and Pakistan)
+[page 17]
 
 IsDB Prize for Impactful Achievement in Islamic Economics:
-1 Laureate; $100,000 Cash Award
-45 Winners To-Date
+- 1 Laureate; $100,000 Cash Award.
+- 45 Winners To-Date.
+[page 17]
 
 Knowledge Events:
-6 Conferences (Organized/Participated)
-30 Knowledge Sessions
+- 6 Conferences (Organized/Participated).
+- 30 Knowledge Sessions.
 [page 17]
 
 """
