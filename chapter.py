@@ -94,9 +94,94 @@ Management Team Dr. Sami Al-Suwailem Acting Director General ANNUAL REPORT 2023 
 [page 14,15]
 
 
-YEAR IN REVIEW The Islamic Development Bank Institute (IsDBI) is a knowledge organization that aims to address the economic challenges in IsDB Member Countries (MCs) and communities through innovative solutions within the Islamic economics and finance framework. The key areas of activities of the Institute in 2023 include: Islamic Finance Sector Transformation A program that supports the transformation and development of the Islamic Financial Services Industry (IFSI) through implementing Islamic finance grant projects. The program covers various technical work areas, including Islamic banking, capital markets, Takaful, and Islamic social finance. In 2023, the Institute programmed and approved 14 new technical assistance projects worth about US$ 2.3 million in Nigeria, Kyrgyzstan, Morocco, Tunisia, Libya, Mauritania, and with partner international organizations. Twelve projects launched earlier were also completed worth a total of US$ 923,000. An important tool for building the Islamic finance sector in MCs is the Islamic Finance Sector Mapping Framework (IF-MAP). This is a holistic diagnostic and remedial Islamic finance ecosystem toolkit now under the pilot implementation stage. In 2023, assessments were completed for Uzbekistan and Kazakhstan, and preliminary discussions were held with Nigeria, Morocco and Turkiye for 2024 assessments. Knowledge Creation & Dissemination The Institute provides market insights and practical analysis for addressing the development challenges of MCs. This program involves conducting research and publishing books, reports, and articles on diverse topics in Islamic economics, finance, and sustainable development. More than 10 publications were issued in 2023. Furthermore, IsDBI developed a cloud reader that grants access to the Institute’s online bookstore, a massive knowledge repository for Islamic economics and finance publications. Capacity Building Developing human capital is a core mandate of the Institute through organization of training programs, executive programs, knowledge seminars, and other forms of capacity building using both traditional and modern technology-based learning methods. In 2023, the Institute organized 13 capacity- building programs on diverse topics for the benefit of external as well as internal stakeholders. The Institute also used the renowned e-learning platform edX to create and offer e-learning programs. IsDB Prize for Impactful Achievement in Islamic Economics A novel financing mechanism, “Cash Waqf Linked Sukuk (CWLS)”, was selected as the first-place winner of the prestigious IsDB Prize for Impactful Achievement in Islamic Economics for the year 2023. CWLS, an initiative of the Indonesian Finance Ministry, is the first large-scale program to finance social projects via non-profit instruments supervised by the government. This form of financing enhances the diversity of the Islamic capital markets and supports the integration between commercial and social Islamic finance. The winner received a US$100,000 cash award. Strengthening Institutional Effectiveness The Institute achieved remarkable results by leveraging technology for business intelligence that enhances efficiency and productivity. One of the key initiatives in 2023 is the Project Management Center (PMC) that aims to centralize and streamline project management processes and guide the business units towards the successful execution of projects. ANNUAL REPORT 2023 14Furthermore, in 2023, the Institute continued to leverage the latest technologies and strategic partnerships to provide cutting-edge solutions to development challenges. Below are some of the key projects and accomplishments in 2023. Awqaf Free Zones This project aims to innovatively combine the concepts of Awqaf, Free Zones, and technology in mobilizing resources for sustainable development, focusing on food and energy security. Feasibility reports for this project are expected to be completed by the end of 2024. OIC Smart Countertrade System The project aims to facilitate trade transactions between parties in the Organization of Islamic Cooperation (OIC), to be settled through digital countertrade means without using currency. Feasibility reports are due for completion by the end of 2024. Digital Postal Islamic Financial Services Project This project explores the opportunities for offering Islamic financial services through the vast postal network to enhance financial inclusion. Seeking to combine digital technology with Islamic financial instruments within postal networks, the project is expected to revolutionize financial inclusion especially in underserved regions. Smart Stabilization System This patent-pending fintech solution aims to stabilize asset markets by effectively managing supply-demand gaps. The system uses proactive measures to reduce the volatility of the traded asset without the need for capital or external reserves. The system has received a favorable assessment from the World Intellectual Property Organization (WIPO) and is being developed in collaboration with SettleMint, a leader in blockchain technology. Islamic Finance Artificial Intelligence Assistant (IFAA) This is a tool that uses advanced AI algorithms to provide comprehensive insights into Islamic finance publications and data, making complex concepts accessible to a broader audience. IFAA can also summarize reports and explain Islamic financial principles in a conversational manner. The tool is expected to be launched in Q1, 2024. Islamic Finance Pavilion Marketplace (IFPM) This platform connects clients in need of Islamic finance, fintech, and development services with proficient suppliers. The platform aims to enhance the accessibility and availability of these services and promote knowledge-driven sustainable development in MCs. The platform is expected to be launched in Q3, 2024.
-[page 14,15]
+The Islamic Development Bank Institute (IsDBI) is a knowledge organization that aims to address
+the economic challenges in IsDB Member Countries (MCs) and communities through innovative
+solutions within the Islamic economics and finance framework. The key areas of activities of the
+Institute in 2023 include:
+[page 14]
 
+Islamic Finance Sector Transformation A program that supports the transformation and development of
+the Islamic Financial Services Industry (IFSI) through implementing Islamic finance grant projects. The program
+covers various technical work areas, including Islamic banking, capital markets, Takaful, and Islamic social
+finance. In 2023, the Institute programmed and approved 14 new technical assistance projects worth about
+US$ 2.3 million in Nigeria, Kyrgyzstan, Morocco, Tunisia, Libya, Mauritania, and with partner international
+organizations. Twelve projects launched earlier were also completed worth a total of US$ 923,000.
+[page 14]
+
+An important tool for building the Islamic finance sector in MCs is the Islamic Finance Sector Mapping
+Framework (IF-MAP). This is a holistic diagnostic and remedial Islamic finance ecosystem toolkit now under
+the pilot implementation stage. In 2023, assessments were completed for Uzbekistan and Kazakhstan, and
+preliminary discussions were held with Nigeria, Morocco and Turkiye for 2024 assessments.
+[page 14]
+
+Knowledge Creation & Dissemination The Institute provides market insights and practical analysis for
+addressing the development challenges of MCs. This program involves conducting research and publishing
+books, reports, and articles on diverse topics in Islamic economics, finance, and sustainable development. More
+than 10 publications were issued in 2023. Furthermore, IsDBI developed a cloud reader that grants access to the
+Institute’s online bookstore, a massive knowledge repository for Islamic economics and finance publications.
+[page 14]
+
+Capacity Building Developing human capital is a core mandate of the Institute through organization of
+training programs, executive programs, knowledge seminars, and other forms of capacity building using both
+traditional and modern technology-based learning methods. In 2023, the Institute organized 13 capacity-
+building programs on diverse topics for the benefit of external as well as internal stakeholders. The Institute
+also used the renowned e-learning platform edX to create and offer e-learning programs.
+[page 14]
+
+IsDB Prize for Impactful Achievement in Islamic Economics A novel financing mechanism, “Cash Waqf
+Linked Sukuk (CWLS)”, was selected as the first-place winner of the prestigious IsDB Prize for Impactful
+Achievement in Islamic Economics for the year 2023. CWLS, an initiative of the Indonesian Finance Ministry,
+is the first large-scale program to finance social projects via non-profit instruments supervised by the
+government. This form of financing enhances the diversity of the Islamic capital markets and supports the
+integration between commercial and social Islamic finance. The winner received a US$100,000 cash award.
+[page 14]
+
+Strengthening Institutional Effectiveness The Institute achieved remarkable results by leveraging technology
+for business intelligence that enhances efficiency and productivity. One of the key initiatives in 2023 is the
+Project Management Center (PMC) that aims to centralize and streamline project management processes and
+guide the business units towards the successful execution of projects.
+[page 14]
+
+Furthermore, in 2023, the Institute continued to leverage the latest technologies
+and strategic partnerships to provide cutting-edge solutions to development
+challenges. Below are some of the key projects and accomplishments in 2023.
+[page 15]
+
+Awqaf Free Zones
+This project aims to innovatively combine the concepts of Awqaf, Free Zones,
+and technology in mobilizing resources for sustainable development, focusing on food and energy
+security. Feasibility reports for this project are expected to be completed by the end of 2024.
+[page 15]
+
+OIC Smart Countertrade System The project aims to facilitate trade transactions between parties in the
+Organization of Islamic Cooperation (OIC), to be settled through digital countertrade means without using
+currency. Feasibility reports are due for completion by the end of 2024.
+[page 15]
+
+Digital Postal Islamic Financial Services Project This project explores the opportunities for offering
+Islamic financial services through the vast postal network to enhance financial inclusion. Seeking to combine
+digital technology with Islamic financial instruments within postal networks, the project is expected to
+revolutionize financial inclusion especially in underserved regions.
+[page 15]
+
+Smart Stabilization System This patent-pending fintech solution aims to stabilize asset markets by
+effectively managing supply-demand gaps. The system uses proactive measures to reduce the volatility
+of the traded asset without the need for capital or external reserves. The system has received a favorable
+assessment from the World Intellectual Property Organization (WIPO) and is being developed in
+collaboration with SettleMint, a leader in blockchain technology.
+[page 15]
+
+Islamic Finance Artificial Intelligence Assistant (IFAA) This is a tool that uses advanced AI algorithms
+to provide comprehensive insights into Islamic finance publications and data, making complex concepts
+accessible to a broader audience. IFAA can also summarize reports and explain Islamic financial principles
+in a conversational manner. The tool is expected to be launched in Q1, 2024.
+[page 15]
+
+Islamic Finance Pavilion Marketplace (IFPM) This platform connects clients in need of Islamic finance,
+fintech, and development services with proficient suppliers. The platform aims to enhance the accessibility
+and availability of these services and promote knowledge-driven sustainable development in MCs. The
+platform is expected to be launched in Q3, 2024.
+[page 15]
 
 2023 AT A GLANCE: Islamic Finance Grants Program
 - $2.3 million Project Approvals (2013).
